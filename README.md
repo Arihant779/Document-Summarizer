@@ -2,9 +2,9 @@
 - **Project for:** IITISOC'24 
 - **Project Duration:** 4th June'24 to 23rd July'24
 ## Authors:
-| Author | GitHub |
-|--------|--------|
-| Arunav Sameer | [![Arunav Sameer]](https://github.com/arunavsameer) |
-| Arihant Jain | [![Arihant Jain]](https://github.com/Arihant779) |
-| Tanishq Godha | [![Tanishq Godha]](https://github.com/Tanishq-Godha) |
+| Author |
+|--------|
+| [Arunav Sameer](https://github.com/arunavsameer) |
+| [Arihant Jain](https://github.com/Arihant779) |
+| [Tanishq Godha](https://github.com/Tanishq-Godha) |
 
