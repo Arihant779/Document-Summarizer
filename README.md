@@ -3,6 +3,6 @@
 **Project Duration:** 4th June'24 to 23rd July'24
 ## Authors:
 |Arunav Sameer| [![Arunav Sameer](https://github.com/arunavsameer.png?size=50)](https://github.com/arunavsameer) |
-|Arihant Jain| [![Arihant Jain](https://github.com/Arihant779.png?size=50)](https://github.com/Arihant779) |
+|Arihant Jain| [![Arihant Jain](https://github.com/Arihant779.png?height=50?width=50)](https://github.com/Arihant779) |
 |Tanishq Godha| [![Tanishq Godha](https://github.com/Tanishq-Godha.png?size=50)](https://github.com/Tanishq-Godha) |
 
