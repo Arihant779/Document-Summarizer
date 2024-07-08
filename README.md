@@ -4,8 +4,8 @@
 ## Authors:
 | Author |
 |--------|
-| [Arunav Sameer](https://github.com/arunavsameer) |
 | [Arihant Jain](https://github.com/Arihant779) |
+| [Arunav Sameer](https://github.com/arunavsameer) |
 | [Tanishq Godha](https://github.com/Tanishq-Godha) |
 | [Anmol Joshi](https://github.com/Anmol-Joshi004) |
 
